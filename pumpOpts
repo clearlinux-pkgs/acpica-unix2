@@ -1,0 +1,2 @@
+# Block older MMDDYY releases
+regex_ban = ^[01]
